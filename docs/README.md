@@ -1,3 +1,8 @@
+### Fork with Premake5 configuration
+for [Minecraft-Clone](https://github.com/BadComoc/Minecraft-Clone)
+- [imgui](https://github.com/BadComoc/imgui)
+- [Premake5](https://github.com/premake/premake-core)
+
 Dear ImGui
 =====
 [![Build Status](https://github.com/ocornut/imgui/workflows/build/badge.svg)](https://github.com/ocornut/imgui/actions?workflow=build) [![Static Analysis Status](https://github.com/ocornut/imgui/workflows/static-analysis/badge.svg)](https://github.com/ocornut/imgui/actions?workflow=static-analysis)
